@@ -1,0 +1,6 @@
+ablation,removed_features,validation_macro_f1,delta_vs_full
+Full feature set,,0.7170492995689844,0.0
+Remove Work_Center,Work_Center,0.6575114829574511,-0.059537816611533345
+Remove location group,"Sub_Council, Ward, Suburb",0.7388941509875202,0.02184485141853576
+Remove temporal group,"day_of_week, day_index, day_of_month, is_weekend",0.6892874051033663,-0.027761894465618164
+Remove coordinate-quality flags,"coord_missing, coord_zero",0.7168680776240179,-0.00018122194496650312

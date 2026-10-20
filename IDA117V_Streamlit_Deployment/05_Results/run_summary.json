@@ -1,0 +1,57 @@
+{
+  "dataset": {
+    "source_file": "Service_Requests_01_April_2026_until_30_May_2026.xlsx",
+    "source_sha256": "ca6e1f6a2648e33bf0ee0cf2f269544be705c26051c79c82a6544b7487dfd0fc",
+    "source_rows": 247305,
+    "source_columns": 14,
+    "excluded_missing_creation_timestamp": 131,
+    "model_rows": 247174,
+    "date_min": "2026-04-01",
+    "date_max": "2026-05-30",
+    "date_count": 60,
+    "within_7_days": 152437,
+    "at_risk": 94737,
+    "at_risk_rate": 0.3832806039470171,
+    "missing_completion": 73488,
+    "exact_duplicates": 15,
+    "repeated_notification_rows": 3054,
+    "coordinate_1_missing": 33672,
+    "coordinate_2_missing": 33661,
+    "coordinate_zero_pair": 41660,
+    "duration_over_30_days": 8007,
+    "duration_over_90_days": 7055,
+    "duration_over_180_days": 412,
+    "category_cardinality": {
+      "Sub_Council": 26,
+      "Ward": 120,
+      "Suburb": 4673,
+      "C3_Complaint_Type": 744,
+      "Work_Center": 801,
+      "day_of_week": 7
+    },
+    "splits": {
+      "train": 168427,
+      "validation": 43234,
+      "test": 35513
+    },
+    "note": "Counts are computed from the workbook packaged here and may differ from earlier report drafts that used a different CSV snapshot."
+  },
+  "selected_model": "Optimized LightGBM",
+  "selected_threshold": 0.65,
+  "validation_macro_f1": 0.7170492995689844,
+  "test_metrics": {
+    "model": "Optimized LightGBM",
+    "threshold": 0.65,
+    "accuracy": 0.6459324754315321,
+    "macro_f1": 0.6457723716418082,
+    "at_risk_precision": 0.581463619207381,
+    "at_risk_recall": 0.7073077413595205,
+    "roc_auc": 0.7272716586902728,
+    "average_precision": 0.7226837295931537
+  },
+  "mcnemar_against_dense_mlp": {
+    "b": 11827,
+    "c": 4588,
+    "p_value": 0.0
+  }
+}

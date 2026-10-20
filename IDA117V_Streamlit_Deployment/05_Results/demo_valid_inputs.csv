@@ -1,0 +1,4 @@
+case,Sub_Council,Ward,Suburb,C3_Complaint_Type,Work_Center,day_of_week,day_index,day_of_month,is_weekend,coord_missing,coord_zero,observed_risk_7d,predicted_probability
+Example 1,Sub-Council 8,85,STRAND,Suspect Tampering,REVENUE PROTECTION: EK - MOBI_REVP166,Saturday,52.0,23.0,1.0,0.0,0.0,1,0.7967186762493903
+Example 2,Sub-Council 11,60,LANSDOWNE,Meter:  Damaged / Faulty,Tygerberg,Thursday,57.0,28.0,0.0,0.0,0.0,1,0.6822367499769322
+Example 3,Sub-Council 3,55,RUGBY,MTR: Customer Reconnection Request,Water and Sanitation Revenue,Saturday,59.0,30.0,1.0,0.0,0.0,0,0.5160863192642785

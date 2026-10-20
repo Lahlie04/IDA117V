@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Generated or local-only data
+IDA117V_Streamlit_Deployment/02_Data/raw/*.xlsx
+IDA117V_Streamlit_Deployment/02_Data/raw/*.csv
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Streamlit secrets
+.streamlit/secrets.toml

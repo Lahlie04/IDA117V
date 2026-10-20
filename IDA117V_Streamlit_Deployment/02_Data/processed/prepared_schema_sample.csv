@@ -1,0 +1,501 @@
+Sub_Council,Ward,Suburb,C3_Complaint_Type,Work_Center,day_of_week,day_index,day_of_month,is_weekend,coord_missing,coord_zero,risk_7d
+0,0,GENERIC TOWN 0000,No Power,Electricity - FLR-Gugulethu-Contractor,Thursday,15.0,16.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,No Power,Electricity - FLR-Gugulethu-Contractor,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,No Power,Electricity - FLR-M'Plain-Contractor,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,No Power,Electricity - FLR-Muizenberg-Contractor,Sunday,18.0,19.0,1.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,No Power,Electricity - FLR-Muizenberg-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,No Power,Electricity - FLR-Vanguard-Contractor,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,No Power,Electricity - FLR-Wynberg-Contractor,Thursday,22.0,23.0,0.0,0.0,1.0,1
+0,0,GENERIC TOWN 0000,No Power,Electricity-First Line Response_Parow,Monday,5.0,6.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,No Power,Energy,Friday,2.0,3.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,No Power,Energy,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,No Power,Energy,Sunday,25.0,26.0,1.0,0.0,1.0,0
+0,0,GUGULETHU,No Power,Electricity - FLR-Gugulethu-Contractor,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,GUGULETHU,No Power,Electricity - FLR-Gugulethu-Contractor,Tuesday,13.0,14.0,0.0,0.0,1.0,0
+0,0,GUGULETHU,No Power,Electricity - FLR-Gugulethu-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,GUGULETHU,No Power,Electricity - FLR-Gugulethu-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,1
+0,0,GUGULETHU,No Power,Electricity - FLR-Gugulethu-Contractor,Thursday,29.0,30.0,0.0,0.0,1.0,1
+0,0,NYANGA,No Power,Electricity - FLR-Gugulethu-Contractor,Wednesday,14.0,15.0,0.0,0.0,1.0,0
+0,0,NYANGA,No Power,Electricity - FLR-Gugulethu-Contractor,Saturday,17.0,18.0,1.0,0.0,1.0,0
+0,0,NYANGA,No Power,Electricity - FLR-Gugulethu-Contractor,Monday,19.0,20.0,0.0,0.0,1.0,0
+0,0,NYANGA,No Power,Electricity - FLR-Gugulethu-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,NYANGA,No Power,Electricity - FLR-Gugulethu-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,PHILIPPI,PPM Display Blank,Electricity - FLR-Gugulethu-Contractor,Thursday,15.0,16.0,0.0,0.0,1.0,0
+0,0,PHILIPPI,PPM Display Blank,Electricity - FLR-Gugulethu-Contractor,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,PHILIPPI,PPM Display Blank,Electricity - FLR-Gugulethu-Contractor,Tuesday,20.0,21.0,0.0,0.0,1.0,1
+0,0,PHILIPPI,PPM Display Blank,Energy,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,GUGULETU,No Power,Electricity - FLR-Gugulethu-Contractor,Saturday,3.0,4.0,1.0,0.0,1.0,0
+0,0,GUGULETU,No Power,Electricity - FLR-Gugulethu-Contractor,Monday,5.0,6.0,0.0,0.0,1.0,0
+0,0,GUGULETU,No Power,Electricity - FLR-Gugulethu-Contractor,Sunday,11.0,12.0,1.0,0.0,1.0,0
+0,0,GUGULETU,No Power,Electricity - FLR-Gugulethu-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,LANGA,No Power,Electricity - FLR-Vanguard-Contractor,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,LANGA,No Power,Electricity - FLR-Vanguard-Contractor,Friday,16.0,17.0,0.0,0.0,1.0,0
+0,0,LANGA,No Power,Electricity - FLR-Vanguard-Contractor,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,LANGA,No Power,Electricity - FLR-Vanguard-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,HOUT BAY,No Power,Electricity - FLR-Wynberg-Contractor,Monday,19.0,20.0,0.0,0.0,1.0,0
+0,0,HOUT BAY,No Power,Electricity - FLR-Wynberg-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,HOUT BAY,No Power,Electricity - FLR-Wynberg-Contractor,Wednesday,28.0,29.0,0.0,0.0,1.0,0
+0,0,HOUT BAY,No Power,Electricity - FLR-Wynberg-Contractor,Wednesday,28.0,29.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,WAT: Leak in Road/Pavement/Undergr,Blomtuin North Water Depot Despatch,Wednesday,14.0,15.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,WAT: Leak in Road/Pavement/Undergr,Blomtuin South Water Depot Despatch,Tuesday,13.0,14.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,WAT: Leak in Road/Pavement/Undergr,Water Services TOC,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,Street Lights - All Lights Out,Electricity - FLR-M'Plain-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,Street Lights - All Lights Out,Energy,Wednesday,0.0,1.0,0.0,0.0,1.0,1
+0,0,GENERIC TOWN 0000,Street Lights - All Lights Out,Energy,Friday,9.0,10.0,0.0,0.0,1.0,0
+0,0,Gugulethu,No Power,Electricity - FLR-Gugulethu-Contractor,Friday,2.0,3.0,0.0,0.0,1.0,0
+0,0,Gugulethu,No Power,Electricity - FLR-Gugulethu-Contractor,Saturday,17.0,18.0,1.0,0.0,1.0,1
+0,0,Gugulethu,No Power,Electricity - FLR-Gugulethu-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,SOUTH PENINSULA,No Power,Electricity - FLR-Muizenberg-Contractor,Monday,19.0,20.0,0.0,0.0,1.0,0
+0,0,SOUTH PENINSULA,No Power,Electricity - FLR-Muizenberg-Contractor,Monday,19.0,20.0,0.0,0.0,1.0,0
+0,0,SOUTH PENINSULA,No Power,Electricity - FLR-Muizenberg-Contractor,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,BROWNS FARM,No Power,Electricity - FLR-Gugulethu-Contractor,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,Merina Dagama,Street Lights - All Lights Out,Electricity - FLR-Muizenberg-Contractor,Thursday,29.0,30.0,0.0,0.0,1.0,1
+0,0,welgemend,PPM Burning/Burning Smell,Electricity-First Line Response_Bloemhof,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,"overcome heights, RETREAT",Cable Exposed,Electricity - FLR-Muizenberg-Contractor,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,SEA WIND CAPRICON,No Power,Electricity - FLR-Muizenberg-Contractor,Monday,26.0,27.0,0.0,0.0,1.0,0
+0,0,Redhill resettlement near Simon#s t,WINF: Pipe Burst,Informal Settlement - Water - Hillstar,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,NYANGA.LUSAKA,No Power,Electricity - FLR-Gugulethu-Contractor,Monday,26.0,27.0,0.0,0.0,1.0,0
+0,0,Masakhane informal settlement Nomza,WINF: Pipe Burst,Informal Settlement - Water - Meltonrose,Tuesday,27.0,28.0,0.0,0.0,1.0,1
+0,0,Joe Slovo. Lanaga,No Power,Electricity - FLR-Vanguard-Contractor,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,krainfortain,WAT: Broken Leading,Blomtuin North Water Depot Despatch,Tuesday,27.0,28.0,0.0,0.0,1.0,1
+0,0,trandfontein.,PPM Tripping,Electricity - FLR-M'Plain-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,philiphi Loyd,PPM Display Blank,Electricity - FLR-Gugulethu-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,1
+0,0,PHUMLANI INFORMAL,No Power,Electricity - FLR-M'Plain-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,KALKSTIENFONEIN,Street Lights - All Lights Out,Energy,Thursday,22.0,23.0,0.0,0.0,1.0,1
+0,0,HERILBOT ROAD BISHOP LAVIS,Globe Battonholders,PH: Electrical Maintenance R1 & R3,Thursday,22.0,23.0,0.0,0.0,1.0,1
+0,0,STEVE BIKO STREET GUGULETHU,PPM Display Blank,Electricity - FLR-Gugulethu-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,"MILITARY ROAD , RETREAT",No Power,Electricity - FLR-Muizenberg-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,Bungalow,No Power,Electricity - FLR-Wynberg-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,Somora Marchel Philipi,No Power,Electricity - FLR-Gugulethu-Contractor,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,T.E. Thabo Mbeki Formal Settlement,No Power,Electricity - FLR-Gugulethu-Contractor,Saturday,17.0,18.0,1.0,0.0,1.0,0
+0,0,Masiphumelele. Informal Settlement,No Power,Electricity - FLR-Muizenberg-Contractor,Sunday,18.0,19.0,1.0,0.0,1.0,0
+0,0,B406a Barcelona Gugulethu,No Power,Electricity - FLR-Gugulethu-Contractor,Saturday,17.0,18.0,1.0,0.0,1.0,0
+0,0,Tygerdal. Goodwood.,Street Lights - Single Light Out,Energy,Friday,16.0,17.0,0.0,0.0,1.0,1
+0,0,Mandela Park.Hout Bay,Sparks on Pole,Electricity - FLR-Wynberg-Contractor,Friday,16.0,17.0,0.0,0.0,1.0,0
+0,0,16 YUSUF GOOL BLVD GATESVILLE,SEW: Blocked/Overflow,Pinelands Sewer Depot Dispatch,Friday,16.0,17.0,0.0,0.0,1.0,0
+0,0,"TAFELSIG, MICHELLS PLAIN",No Power,Electricity - FLR-M'Plain-Contractor,Tuesday,13.0,14.0,0.0,0.0,1.0,1
+0,0,"SAMORA MACHELL, PHILIPPI",No Power,Electricity - FLR-Gugulethu-Contractor,Sunday,11.0,12.0,1.0,0.0,1.0,0
+0,0,LKHAYELITSHA,SEW: Blocked/Overflow,Khayelitsha Sewer Depot Dispatch,Monday,12.0,13.0,0.0,0.0,1.0,0
+0,0,"CAPRICORN, RETREAT",No Power,Electricity - FLR-Muizenberg-Contractor,Friday,9.0,10.0,0.0,0.0,1.0,0
+0,0,GRASSY PARK PHUMALANI,PPM Customer Unable to Purchase,Energy,Wednesday,7.0,8.0,0.0,0.0,1.0,0
+0,0,industrial rin road,WAT: Leak in Road/Pavement/Undergr,Parow Water Dispatch,Tuesday,6.0,7.0,0.0,0.0,1.0,1
+0,0,"Protea height, Brackenfell",Street Lights - Single Light Out,Electricity-FLR_Oostenberg_Streetlights,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,Siyahlala PHILIPPI,Sparks on Pole,Electricity - FLR-Gugulethu-Contractor,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,"18 DROMMEDARIS STREET, RUGBY",No Power,Electricity - FLR-Mowbray-Contractor,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,Nyanga EasT,No Power,Electricity - FLR-Gugulethu-Contractor,Friday,2.0,3.0,0.0,0.0,1.0,0
+0,0,LANGA  RM 46,PPM Display Blank,Electricity - FLR-Vanguard-Contractor,Friday,2.0,3.0,0.0,0.0,1.0,0
+0,0,EXT6. MFULENI,No Power,Electricity-First Line Response_Mfuleni,Friday,2.0,3.0,0.0,0.0,1.0,0
+0,0,EDGAR BULLOCK ST EDGAR BULLOCK STRE,No Power,Electricity-First Line Response_Parow,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,enyanga,WAT: Leak in Road/Pavement/Undergr,Hillstar Water Depot Dispatch 2 P/M,Thursday,1.0,2.0,0.0,0.0,1.0,1
+0,0,mxenge,No Power,Electricity - FLR-Gugulethu-Contractor,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,WMM: No Water Below 40mm,Customer Relations,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,Pole Knocked: Motor Vehicle Accident,Energy,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,PPM Faulty Mode,Electricity - FLR-Mowbray-Contractor,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,PPM Display Blank,Electricity - FLR-Vanguard-Contractor,Saturday,17.0,18.0,1.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,Wires Down,Electricity - FLR-Wynberg-Contractor,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,0,No Power,Electricity - FLR-Vanguard-Contractor,Tuesday,20.0,21.0,0.0,0.0,1.0,1
+0,0,"CLAREMONT, NEWLANDS",No Power,Electricity - FLR-Wynberg-Contractor,Friday,2.0,3.0,0.0,0.0,1.0,0
+0,0,The Palms strand,No Power,Energy,Friday,2.0,3.0,0.0,0.0,1.0,1
+0,0,Capricorn.,No Power,Electricity - FLR-Muizenberg-Contractor,Friday,16.0,17.0,0.0,0.0,1.0,0
+0,0,Joe Slovo. Milnerton,Sparks on Pole,Electricity - FLR-Mowbray-Contractor,Saturday,17.0,18.0,1.0,0.0,1.0,0
+0,0,Happyvalley,SEW: Blocked/Overflow,Melton Rose Sewer Depot Dispatch,Friday,9.0,10.0,0.0,0.0,1.0,0
+0,0,PINEHURST,Root Pruning,OPEN SPC - BRACKENFELL - TREE MAINT,Wednesday,21.0,22.0,0.0,0.0,1.0,1
+0,0,PHILLIPI,SEW: Blocked/Overflow,Mitchells Plain Sewer Depot Dispatch,Saturday,3.0,4.0,1.0,0.0,1.0,1
+0,0,PHILLIPI,No Power,Electricity - FLR-Gugulethu-Contractor,Monday,19.0,20.0,0.0,0.0,1.0,0
+0,0,PHILIPPI EAST,No Power,Electricity - FLR-Gugulethu-Contractor,Saturday,24.0,25.0,1.0,0.0,1.0,0
+0,0,PARKWOOD,Suspect Tampering,Revenue Protection:Chad Southgate,Thursday,1.0,2.0,0.0,0.0,1.0,1
+0,0,PARKWOOD,No Power,Electricity - FLR-Wynberg-Contractor,Friday,9.0,10.0,0.0,0.0,1.0,0
+0,0,Nyanga,PPM Display Blank,Electricity - FLR-Gugulethu-Contractor,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,Nyanga,Other (Enter detailed Fault description),Vending Prepayment Master Data,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,NYANGA EAST,No Power,Electricity - FLR-Gugulethu-Contractor,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,MUIZENBERG,Other (Enter detailed Fault description),Energy,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,MUIZENBERG,Dunning Investigations / Final Accounts,Debt Collection Actions&Service Liaison,Tuesday,13.0,14.0,0.0,0.0,1.0,0
+0,0,MONTAGUE VILLAGE,SEW: Blocked/Overflow,Kendal Sewer Depot Dispatch,Thursday,29.0,30.0,0.0,0.0,1.0,0
+0,0,MANENBERG,DB: Circute Breaker not working,PH: Electrical Maintenance R1 & R3,Thursday,29.0,30.0,0.0,0.0,1.0,1
+0,0,MANENBERG,PPM Faulty (Enter detailed description),Electricity - FLR-Vanguard-Contractor,Monday,19.0,20.0,0.0,0.0,1.0,0
+0,0,MANENBERG,PPM Display Blank,Electricity - FLR-Vanguard-Contractor,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,MANENBERG,Fire Call,Electricity - FLR-Vanguard-Contractor,Wednesday,14.0,15.0,0.0,0.0,1.0,0
+0,0,MAITLAND,MTR: Customer MTR Reading/Consump,WSR- CTA Customer Relationship Managemen,Tuesday,13.0,14.0,0.0,0.0,1.0,1
+0,0,Langa,No Power,Electricity - FLR-Vanguard-Contractor,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,LWANDLE,SEW: Blocked/Overflow,Strand Sewer Depot Dispatch,Monday,26.0,27.0,0.0,0.0,1.0,0
+0,0,LOWER CROSSROADS,SEW: Blocked/Overflow,Mitchells Plain Sewer Depot Dispatch,Thursday,8.0,9.0,0.0,0.0,1.0,0
+0,0,LOWER CROSSROADS,WMM: Leak at Meter/Stopcock Below 40mm,Cape Town / SPM,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,LOTUS RIVER,Street Lights - Single Light Out,Electricity - FLR-M'Plain-Contractor,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,LOTUS RIVER,Street Lights - All Lights Out,Electricity - FLR-M'Plain-Contractor,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,LEONSDALE,SEW: Blocked/Overflow,Socony Sewer Depot Dispatch,Tuesday,13.0,14.0,0.0,0.0,1.0,0
+0,0,LANSDOWNE,PPM Customer Unable to Purchase,Energy,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,LANSDOWNE,Low Voltage and/or Shocks,Electricity - FLR-Vanguard-Contractor,Friday,2.0,3.0,0.0,0.0,1.0,0
+0,0,Kenilworth,Street Lights - All Lights Out,Electricity - FLR-Wynberg-Contractor,Monday,26.0,27.0,0.0,0.0,1.0,1
+0,0,KUILSRIVER,Pole Knocked: Motor Vehicle Accident,Energy,Thursday,8.0,9.0,0.0,0.0,1.0,0
+0,0,KEWTOWN,WMM: Leak at Meter/Stopcock Below 40mm,Tygerberg,Thursday,15.0,16.0,0.0,0.0,1.0,1
+0,0,KENILWORTH,OSL - Water,Customer Relations,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,KALK BAY,SEW: Blocked/Overflow,Kendal Sewer Depot Dispatch,Thursday,29.0,30.0,0.0,0.0,1.0,0
+0,0,ILITHA PARK,WMM: Leak at Meter/Stopcock Below 40mm,WSR- CTA Debt Management,Thursday,15.0,16.0,0.0,0.0,1.0,0
+0,0,Houtbay,No Power,Electricity - FLR-Wynberg-Contractor,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,HEIDEVELD,WAT: Leak in Road/Pavement/Undergr,Hillstar Water Depot Dispatch 2 P/M,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,HEIDEVELD,PPM Tripping,Electricity - FLR-Vanguard-Contractor,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,HEIDEVELD,Street Lights - All Lights Out,Electricity - FLR-Vanguard-Contractor,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,HANOVER PARK,SEW: Blocked/Overflow,Pinelands Sewer Depot Dispatch,Friday,16.0,17.0,0.0,0.0,1.0,0
+0,0,HANOVER PARK,WMM: No Water Below 40mm,Tygerberg,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,HANOVER PARK,WAT: Re-instatement,Reinst Reg 4 Wat T/O,Thursday,15.0,16.0,0.0,0.0,1.0,1
+0,0,Grassy Park,Street Lights - All Lights Out,Electricity - FLR-Wynberg-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,1
+0,0,GUGULETHU,SEW: Blocked/Overflow,Pinelands Sewer Depot Dispatch,Saturday,17.0,18.0,1.0,0.0,1.0,0
+0,0,GUGULETHU,PPM Keypad Faulty,Electricity - FLR-Gugulethu-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,GUGULETHU,PPM Display Blank,Electricity - FLR-Gugulethu-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,GREENPOINT,WAT: Leak in Road/Pavement/Undergr,Hillstar Water Depot Dispatch 2 P/M,Tuesday,13.0,14.0,0.0,0.0,1.0,0
+0,0,GLENLILY,Street Lights - Single Light Out,Electricity-FLR_Parow_Streetlights,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,GLENCAIRN,Street Lights - Single Light Out,Electricity - FLR-Muizenberg-Contractor,Friday,2.0,3.0,0.0,0.0,1.0,1
+0,0,GATESVILLE,Other (Enter detailed Fault description),Electricity - FLR-Vanguard-Contractor_A,Tuesday,6.0,7.0,0.0,0.0,1.0,1
+0,0,GARDENS,WAT: Re-instatement,Reinst Reg 4 Wat T/O,Friday,16.0,17.0,0.0,0.0,1.0,1
+0,0,GARDENS,WAT: Burst Pipe,Hillstar Water Depot Dispatch 1 FLR,Sunday,11.0,12.0,1.0,0.0,1.0,0
+0,0,GARDENS,No Power,Electricity-FLR-City-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,Crawfort,No Power,Electricity - FLR-Wynberg-Contractor,Friday,2.0,3.0,0.0,0.0,1.0,0
+0,0,Grassy PARK,PPM Customer Unable to Purchase,Energy,Sunday,11.0,12.0,1.0,0.0,1.0,0
+0,0,GREENVILLE,SEW: Blocked/Overflow,Langeberg Sew Depot Dispatch,Thursday,29.0,30.0,0.0,0.0,1.0,0
+0,0,OVERCOME HEIGHTS VRYGROND,PPM Faulty Mode,Electricity - FLR-Muizenberg-Contractor,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,Imizamo Yethu Hout Bay,No Power,Electricity - FLR-Wynberg-Contractor,Wednesday,7.0,8.0,0.0,0.0,1.0,0
+0,0,makhaza khayelitsha,Blocked Toilet - Chemical Tlt,Informal Settlement - Sewer - Meltonrose,Thursday,8.0,9.0,0.0,0.0,1.0,0
+0,0,Overcome Heights Seawinds,No Power,Electricity - FLR-Muizenberg-Contractor,Monday,19.0,20.0,0.0,0.0,1.0,0
+0,0,GREENVILLE GARDEN CITY,SEW: Broken Pipe,Langeberg Sew Depot Dispatch,Wednesday,28.0,29.0,0.0,0.0,1.0,1
+0,0,GREENVILLE GARDEN CITY,WMM: No Water Below 40mm,Customer Relations,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,Strandfontein.,PPM Tripping,Electricity - FLR-M'Plain-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,RIVERGATE,WAT: Burst Pipe,Depot Dispatch  Killarney Water,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,DISTRICT SIX,Street Lights - All Lights Out,Electricity-FLR-City-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,VASCO ESTATE GOODWOOD,WAT: Burst Pipe,Hillstar Water Depot Dispatch 1 FLR,Saturday,3.0,4.0,1.0,0.0,1.0,0
+0,0,chapmans peak,SEW: Empty Conservancy Tank,Fish Hoek Sewer Depot Dispatch,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,KENILWORH,Wires Down,Electricity - FLR-Wynberg-Contractor,Friday,16.0,17.0,0.0,0.0,1.0,1
+0,0,GODONS BAY,SEW: Empty Conservancy Tank,Vaalfontein Sewer Depot Dispatch,Wednesday,7.0,8.0,0.0,0.0,1.0,0
+0,0,SAMORA MACHEL PHILLIPI,PPM Display Blank,Electricity - FLR-Gugulethu-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,1
+0,0,HARMONY VILLAGE,WMM: No Water Below 40mm,Cape Town / SPM,Thursday,1.0,2.0,0.0,0.0,1.0,1
+0,0,HARMONY VILLAGE,WAT: Low Pressure,Hillstar Water Depot Dispatch 1 FLR,Tuesday,27.0,28.0,0.0,0.0,1.0,1
+0,0,HARMONY VILLAGE,PPM Tripping,Electricity - FLR-M'Plain-Contractor,Thursday,8.0,9.0,0.0,0.0,1.0,0
+0,0,OTTERT,Street Lights - All Lights Out,Electricity - FLR-Wynberg-Contractor,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,Lusaka Nyanga,Low Voltage and/or Shocks,Electricity - FLR-Gugulethu-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,Rusthof Strand,SEW: Blocked/Overflow,Strand Sewer Depot Dispatch,Sunday,4.0,5.0,1.0,0.0,1.0,0
+0,0,LWANDLE - STRAND,Fire Call,Energy,Wednesday,14.0,15.0,0.0,0.0,1.0,0
+0,0,"Joe Slovo, Milnerton",No Power,Electricity - FLR-Mowbray-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,HIGH RIDING,SEW: Empty Conservancy Tank,Vaalfontein Sewer Depot Dispatch,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,0,BELHAR EXT 5,SEW: Blocked/Overflow,Delft Sew Depot Dispatch,Friday,16.0,17.0,0.0,0.0,1.0,0
+0,0,MONTAGUE HEIGHTS,SINF: Blocked Manhole,Informal Settlements: Contracted Service,Thursday,29.0,30.0,0.0,0.0,1.0,0
+0,0,BLUE DOWNS CBD,WAT: Low Pressure,Depot Dispatch Melton Rose Water,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,LYNN'S VIEW,Other (Enter detailed Fault description),Vending Prepayment Master Data,Wednesday,28.0,29.0,0.0,0.0,1.0,0
+0,0,LYNN'S VIEW,PPM Faulty Mode,Electricity-First Line Response_Helderbe,Wednesday,28.0,29.0,0.0,0.0,1.0,0
+0,0,GOEDEHOOP,WAT: Low Pressure,Depot Dispatch Strand Water,Friday,16.0,17.0,0.0,0.0,1.0,1
+0,0,BELGRAVIA -BELLVILLE,MTR: Customer Tariff Related,WCSB Meter Mgt STA 030,Friday,9.0,10.0,0.0,0.0,1.0,1
+0,0,FAIRVIEW GOLF ESTATE,WAT: No Water 40mm and Above,Depot Dispatch Strand Water,Wednesday,0.0,1.0,0.0,0.0,1.0,1
+0,0,NUTWOOD,Other (Enter detailed Fault description),Electricity-First Line Response_Helderbe,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,Tambo Square,SEW: Blocked/Overflow,Pinelands Sewer Depot Dispatch,Monday,12.0,13.0,0.0,0.0,1.0,0
+0,0,VREDELUST BELLVILLE,WMM: No Water Below 40mm,Tygerberg,Wednesday,21.0,22.0,0.0,0.0,1.0,1
+0,0,VREDELUST BELLVILLE,WAT: Low Pressure,Blomtuin South Water Depot Despatch,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,WYBERG,No Power,Electricity - FLR-Wynberg-Contractor,Wednesday,7.0,8.0,0.0,0.0,1.0,0
+0,0,BEACONHILL ATLANTIS,Street Lights - All Lights Out,Electricity - FLR-Atlantis-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,Brakenfell,Street Lights - All Lights Out,Energy,Thursday,29.0,30.0,0.0,0.0,1.0,1
+0,0,Bayview Strandfontein,Street Lights - Single Light Out,Electricity - FLR-M'Plain-Contractor,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,ronderbosh,PPM Faulty (Enter detailed description),Electricity - FLR-Wynberg-Contractor,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,platekloof,Fallen Branch,OPEN SPC - PINELANDS - TREE MAINT.,Sunday,4.0,5.0,1.0,0.0,1.0,1
+0,0,PHILLIPI- BROWNS FARM,No Power,Electricity - FLR-Gugulethu-Contractor,Monday,19.0,20.0,0.0,0.0,1.0,0
+0,0,mitchels plain,Street Lights - All Lights Out,Electricity - FLR-M'Plain-Contractor,Wednesday,7.0,8.0,0.0,0.0,1.0,0
+0,0,uitsig,"Nature Reserve -  Stranded, distressed o",OPEN SPC - REG. OFFICE SOUTH,Thursday,1.0,2.0,0.0,0.0,1.0,1
+0,0,CAPE FARMS - DISTRICT B,Billing Discrepancy,Internal and External Billing,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,overcome heights,PPM Faulty Mode,Electricity - FLR-Muizenberg-Contractor,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,houtbay,No Power,Electricity - FLR-Wynberg-Contractor,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,Mfuleni,No Power,Electricity-First Line Response_Mfuleni,Sunday,4.0,5.0,1.0,0.0,1.0,0
+0,0,MONTCLAIR,PPM Faulty Mode,Electricity - FLR-M'Plain-Contractor,Monday,5.0,6.0,0.0,0.0,1.0,0
+0,0,MITCHELS PLAIN,PPM Display Blank,Electricity - FLR-M'Plain-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,1
+0,0,MANDELA PARK,WMM: No Water Below 40mm,Oostenberg / Helderberg,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,FLORIDA,Dunning Investigations / Final Accounts,Debt Collection Actions&Service Liaison,Monday,12.0,13.0,0.0,0.0,1.0,0
+0,0,FLORIDA,Low Voltage and/or Shocks,Electricity-First Line Response_Parow,Friday,2.0,3.0,0.0,0.0,1.0,0
+0,0,BO-KAAP,WAT: Broken Leading,Hillstar Water Depot Dispatch 3 DM,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,BELMONT PARK,Dunning Investigations / Final Accounts,Debt Collection Actions&Service Liaison,Monday,12.0,13.0,0.0,0.0,1.0,0
+0,0,BELLAIR,MTR: Customer Reconnection Request,Water and Sanitation Revenue,Wednesday,14.0,15.0,0.0,0.0,1.0,0
+0,0,ottery,WAT: Re-instatement,Reinst Reg 1 Wat T/O,Thursday,8.0,9.0,0.0,0.0,1.0,1
+0,0,lotus river,PPM Display Blank,Electricity - FLR-M'Plain-Contractor,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,goodwood,Illegal Dumping,Central Area Cleaning,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,0,Gugulethu,PPM Display Blank,Electricity - FLR-Gugulethu-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,1
+0,0,DURBANVILLE MEADOWS,WMM: No Water Below 40mm,Blaauwberg,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,DURBANVILLE HILLS,No Power,Electricity-First Line Response_Bloemhof,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,Constantia,No Power,Electricity - FLR-Wynberg-Contractor,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,CAMPS BAY / BAKOVEN,SEW: Blocked/Overflow,Pinelands Sewer Depot Dispatch,Friday,9.0,10.0,0.0,0.0,1.0,0
+0,0,CAMPS BAY / BAKOVEN,WMM: No Water Below 40mm,Blaauwberg,Tuesday,13.0,14.0,0.0,0.0,1.0,0
+0,0,CAMPS BAY / BAKOVEN,MTR: Customer Account Adjustment,WSR- Customer Relationship Management,Thursday,8.0,9.0,0.0,0.0,1.0,1
+0,0,BELLVILLE CBD,Other (Enter detailed Fault description),Vending Prepayment Master Data,Monday,12.0,13.0,0.0,0.0,1.0,0
+0,0,BELLVILLE CBD,Street Lights - All Lights Out,Energy,Friday,16.0,17.0,0.0,0.0,1.0,1
+0,0,fish hoek,No Power,Electricity - FLR-Muizenberg-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,WYNBERG,SEW: Blocked/Overflow,Kendal Sewer Depot Dispatch,Wednesday,14.0,15.0,0.0,0.0,1.0,0
+0,0,WOODSTOCK,Cable Exposed,Electricity - FLR-Mowbray-Contractor,Thursday,22.0,23.0,0.0,0.0,1.0,1
+0,0,WALLACEDENE,SEW: Blocked/Overflow,Langeberg Sew Depot Dispatch,Monday,12.0,13.0,0.0,0.0,1.0,0
+0,0,VASCO ESTATE,Damaged Bin - 240L,Tierberg Collections,Tuesday,13.0,14.0,0.0,0.0,1.0,0
+0,0,VANGUARD ESTATE,PPM Faulty (Enter detailed description),Electricity - FLR-Vanguard-Contractor,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,0,THE CONIFERS,WAT: Broken Leading,Depot Dispatch Melton Rose Water,Monday,12.0,13.0,0.0,0.0,1.0,0
+0,0,TAFELSIG,PPM Rejecting Code,Electricity - FLR-M'Plain-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,TAFELSIG,PPM Keypad Faulty,Electricity - FLR-M'Plain-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,TABLE VIEW,SEW: Blocked/Overflow,Depot Dispatch Killarney,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,STRAND,SEW: Empty Conservancy Tank,Vaalfontein Sewer Depot Dispatch,Wednesday,28.0,29.0,0.0,0.0,1.0,1
+0,0,STRAND,PPM Display Blank,Electricity-First Line Response_Helderbe,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,STRAND,Cable Exposed,Electricity-First Line Response_Helderbe,Thursday,8.0,9.0,0.0,0.0,1.0,0
+0,0,STELLENBERG,Mowing - Parks,OPEN SPC - OLD OAK DEPOT - MOWING,Tuesday,13.0,14.0,0.0,0.0,1.0,1
+0,0,ST JAMES,Street Lights - Single Light Out,Electricity - FLR-Muizenberg-Contractor,Thursday,22.0,23.0,0.0,0.0,1.0,1
+0,0,SEAWINDS,PPM Faulty Mode,Electricity - FLR-Muizenberg-Contractor,Monday,26.0,27.0,0.0,0.0,1.0,0
+0,0,SAREPTA,SEW: Blocked/Overflow,Melton Rose Sewer Depot Dispatch,Wednesday,28.0,29.0,0.0,0.0,1.0,0
+0,0,SAMORA MACHEL,SEW: Blocked/Overflow,Mitchells Plain Sewer Depot Dispatch,Friday,23.0,24.0,0.0,0.0,1.0,1
+0,0,SAMORA MACHEL,PPM Faulty (Enter detailed description),Electricity - FLR-Gugulethu-Contractor,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,SAMORA,SEW: Blocked/Overflow,Mitchells Plain Sewer Depot Dispatch,Wednesday,7.0,8.0,0.0,0.0,1.0,0
+0,0,SALT RIVER,WMM: Damaged Meter Below 40mm,Blaauwberg,Friday,9.0,10.0,0.0,0.0,1.0,0
+0,0,Retreat,Street Lights - All Lights Out,Electricity - FLR-Muizenberg-Contractor,Saturday,24.0,25.0,1.0,0.0,1.0,0
+0,0,RUGBY,No Power,Electricity - FLR-Mowbray-Contractor,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,RUGBY,Street Lights - All Lights Out,Electricity - FLR-Mowbray-Contractor,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,RONDEVLEI PARK,PPM Rejecting Code,Electricity - FLR-M'Plain-Contractor,Thursday,8.0,9.0,0.0,0.0,1.0,0
+0,0,RETREAT,No Power,Electricity - FLR-Muizenberg-Contractor,Monday,26.0,27.0,0.0,0.0,1.0,0
+0,0,RAVENSMEAD,WAT: Re-instatement,Reinst Reg 4 Wat T/O,Tuesday,6.0,7.0,0.0,0.0,1.0,1
+0,0,Philippi,WINF: Faulty Water Trough,Informal Settlement - Water - Hillstar,Sunday,4.0,5.0,1.0,0.0,1.0,0
+0,0,PLUMSTEAD,WMM: Leak at Meter/Stopcock Below 40mm,Cape Town / SPM,Tuesday,6.0,7.0,0.0,0.0,1.0,1
+0,0,BROWNS FARM,No Power,Electricity - FLR-Gugulethu-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,BROWNS FARM,No Power,Electricity - FLR-Gugulethu-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,ATHLONE,No Power,Electricity - FLR-Vanguard-Contractor,Saturday,10.0,11.0,1.0,0.0,1.0,0
+0,0,ATHLONE,No Power,Electricity - FLR-Vanguard-Contractor,Wednesday,14.0,15.0,0.0,0.0,1.0,0
+0,0,ATHLONE,No Power,Electricity - FLR-Vanguard-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,GRASSY PARK,No Power,Electricity - FLR-M'Plain-Contractor,Saturday,3.0,4.0,1.0,0.0,1.0,0
+0,0,GRASSY PARK,No Power,Electricity - FLR-M'Plain-Contractor,Wednesday,14.0,15.0,0.0,0.0,1.0,0
+0,0,GRASSY PARK,No Power,Electricity - FLR-M'Plain-Contractor,Wednesday,28.0,29.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,Street Lights - Single Light Out,Electricity-FLR_Helderberg_Streetlights,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,Street Lights - Single Light Out,Energy,Monday,19.0,20.0,0.0,0.0,1.0,1
+0,0,GENERIC TOWN 0000,Sparks on Pole,Energy,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,GENERIC TOWN 0000,Sparks on Pole,Energy,Thursday,29.0,30.0,0.0,0.0,1.0,0
+0,0,"SURREY ESTATE, MANENBERG",Street Lights - Single Light Out,Electricity - FLR-Vanguard-Contractor,Friday,16.0,17.0,0.0,0.0,1.0,0
+0,0,"SURREY ESTATE, MANENBERG",Street Lights - Single Light Out,Electricity - FLR-Vanguard-Contractor,Friday,16.0,17.0,0.0,0.0,1.0,1
+0,0,MASIPHUMELE  SITE -5,No Power,Electricity - FLR-Muizenberg-Contractor,Wednesday,14.0,15.0,0.0,0.0,1.0,0
+0,0,MASIPHUMELE  SITE -5,No Power,Electricity - FLR-Muizenberg-Contractor,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,Fish hoek,No Power,Electricity - FLR-Muizenberg-Contractor,Wednesday,14.0,15.0,0.0,0.0,1.0,0
+0,0,Fish hoek,No Power,Electricity - FLR-Muizenberg-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,Philipi,No Power,Electricity - FLR-Gugulethu-Contractor,Friday,2.0,3.0,0.0,0.0,1.0,0
+0,0,Philipi,No Power,Electricity - FLR-Gugulethu-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,Mannenberg,No Power,Electricity - FLR-Vanguard-Contractor,Saturday,10.0,11.0,1.0,0.0,1.0,0
+0,0,Mannenberg,No Power,Electricity - FLR-Vanguard-Contractor,Saturday,10.0,11.0,1.0,0.0,1.0,0
+0,0,Strandfontein,PPM Tripping,Electricity - FLR-M'Plain-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,Strandfontein,PPM Tripping,Electricity - FLR-M'Plain-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,Somerset West,Street Lights - Single Light Out,Electricity-FLR_Helderberg_Streetlights,Friday,16.0,17.0,0.0,0.0,1.0,0
+0,0,Somerset West,Street Lights - Single Light Out,Electricity-FLR_Helderberg_Streetlights,Friday,16.0,17.0,0.0,0.0,1.0,0
+0,0,STRAND,Fire Call,Electricity-First Line Response_Helderbe,Thursday,15.0,16.0,0.0,0.0,1.0,0
+0,0,STRAND,Fire Call,Electricity-First Line Response_Helderbe,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,STRAND,No Power,Electricity - FLR-M'Plain-Contractor,Wednesday,7.0,8.0,0.0,0.0,1.0,0
+0,0,STRAND,No Power,Electricity-First Line Response_Helderbe,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,MASIPHUMELELE,No Power,Electricity - FLR-Muizenberg-Contractor,Friday,2.0,3.0,0.0,0.0,1.0,0
+0,0,MASIPHUMELELE,No Power,Electricity - FLR-Muizenberg-Contractor,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,MANENBERG,No Power,Electricity - FLR-Vanguard-Contractor,Friday,9.0,10.0,0.0,0.0,1.0,0
+0,0,MANENBERG,No Power,Electricity - FLR-Vanguard-Contractor,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,LAVENDER HILL,PPM Display Blank,Electricity - FLR-Muizenberg-Contractor,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,0,LAVENDER HILL,PPM Display Blank,Electricity - FLR-Muizenberg-Contractor,Sunday,25.0,26.0,1.0,0.0,1.0,0
+0,0,BEACON VALLEY,SEW: Blocked/Overflow,Mitchells Plain Sewer Depot Dispatch,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,0,BEACON VALLEY,SEW: Blocked/Overflow,Mitchells Plain Sewer Depot Dispatch,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,PHILIPPI,PPM Tripping,Electricity - FLR-Gugulethu-Contractor,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,PHILIPPI,PPM Tripping,Electricity - FLR-Gugulethu-Contractor,Tuesday,6.0,7.0,0.0,0.0,1.0,1
+0,0,PHILIPPI,No Power,Electricity - FLR-Gugulethu-Contractor,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,0,PHILIPPI,No Power,Electricity - FLR-Gugulethu-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,GUGULETU,PPM Display Blank,Electricity - FLR-Gugulethu-Contractor,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,GUGULETU,PPM Display Blank,Electricity - FLR-Gugulethu-Contractor,Sunday,11.0,12.0,1.0,0.0,1.0,0
+0,0,LANGA,PPM Display Blank,Electricity - FLR-Vanguard-Contractor,Monday,19.0,20.0,0.0,0.0,1.0,0
+0,0,LANGA,PPM Display Blank,Electricity - FLR-Vanguard-Contractor_A,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,KHAYELITSHA,SEW: Blocked/Overflow,Khayelitsha Sewer Depot Dispatch,Wednesday,28.0,29.0,0.0,0.0,1.0,0
+0,0,KHAYELITSHA,SEW: Blocked/Overflow,Khayelitsha Sewer Depot Dispatch,Thursday,29.0,30.0,0.0,0.0,1.0,0
+0,0,PAROW,No Power,Electricity-First Line Response_Parow,Sunday,4.0,5.0,1.0,0.0,1.0,0
+0,0,PAROW,No Power,Electricity-First Line Response_Parow,Wednesday,7.0,8.0,0.0,0.0,1.0,0
+0,0,muizenburg,No Power,Electricity - FLR-Muizenberg-Contractor,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,ELSIES RIVER INDUSTRIA,Damaged Bin - 240L,Tierberg Collections,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,BELHAR EXT 22,PPM Faulty (Enter detailed description),Electricity-First Line Response_Mfuleni,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,Uitzicht,WAT: Run to Waste,Blomtuin North Water Depot Despatch,Saturday,3.0,4.0,1.0,0.0,1.0,0
+0,0,deep river,SEW: Blocked/Overflow,Kendal Sewer Depot Dispatch,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,fisantekraal,SEW: Blocked/Overflow,Langeberg Sew Depot Dispatch,Thursday,29.0,30.0,0.0,0.0,1.0,0
+0,0,HILLCREST HEIGHTS,WMM: Leak at Meter/Stopcock Below 40mm,Oostenberg / Helderberg,Saturday,10.0,11.0,1.0,0.0,1.0,0
+0,0,BARCELONA INFORMAL SETTLEMENT,No Power,Electricity - FLR-Gugulethu-Contractor,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,BROWNS FARM PHILIPPI,PPM Tripping,Electricity - FLR-Gugulethu-Contractor,Friday,16.0,17.0,0.0,0.0,1.0,0
+0,0,makhaza,Street Lights - Single Light Out,Energy,Friday,23.0,24.0,0.0,0.0,1.0,1
+0,0,Masiphumelele,No Power,Electricity - FLR-Muizenberg-Contractor,Friday,16.0,17.0,0.0,0.0,1.0,0
+0,0,Town Two,SEW: Blocked/Overflow,Customer Relations,Wednesday,7.0,8.0,0.0,0.0,1.0,0
+0,0,Happy Valley,No Power,Energy,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,MASIPHUMELE  SITE -5,PPM Tripping,Electricity - FLR-Muizenberg-Contractor,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,MASIPHUMELE  SITE -5,PPM Display Blank,Electricity - FLR-Muizenberg-Contractor,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,0,FAIRDALE,SEW: Blocked/Overflow,Melton Rose Sewer Depot Dispatch,Monday,12.0,13.0,0.0,0.0,1.0,0
+0,0,Ottery,No Power,Electricity - FLR-Wynberg-Contractor,Monday,19.0,20.0,0.0,0.0,1.0,0
+0,0,capetown,SEW: Faulty Damaged Manhole Cover,Pinelands Sewer Depot Dispatch,Wednesday,28.0,29.0,0.0,0.0,1.0,0
+0,0,Grassy park,No Power,Electricity - FLR-M'Plain-Contractor,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,BROWNS FARM,Fire Call,Electricity - FLR-Gugulethu-Contractor,Thursday,15.0,16.0,0.0,0.0,1.0,1
+0,0,SAREPTA KUILSRIVER,SEW: Blocked/Overflow,Melton Rose Sewer Depot Dispatch,Monday,12.0,13.0,0.0,0.0,1.0,1
+0,0,AVONDALE PAROW,WAT: Re-instatement,Reinst Reg 4 Wat T/O,Thursday,8.0,9.0,0.0,0.0,1.0,1
+0,0,MASIPHUMELE,PPM Tripping,Electricity - FLR-Muizenberg-Contractor,Tuesday,13.0,14.0,0.0,0.0,1.0,0
+0,0,Gatesville,No Power,Electricity - FLR-Vanguard-Contractor,Saturday,24.0,25.0,1.0,0.0,1.0,0
+0,0,IMIZAMO YETHU,PPM Tripping,Electricity - FLR-Wynberg-Contractor,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,0,nyanga,PPM Display Blank,Electricity - FLR-Gugulethu-Contractor,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,HOUT BAY,Other (Enter detailed Fault description),Electricity - FLR-Wynberg-Contractor,Tuesday,20.0,21.0,0.0,0.0,1.0,1
+0,0,Salt River,Street Lights - All Lights Out,Electricity - FLR-Mowbray-Contractor,Friday,16.0,17.0,0.0,0.0,1.0,0
+0,0,Ravensmead,DO NOT USE (Electrical),Support Services & Admin,Tuesday,6.0,7.0,0.0,0.0,1.0,1
+0,0,Ravensmead,No Power,Electricity-First Line Response_Parow,Sunday,18.0,19.0,1.0,0.0,1.0,0
+0,0,RIDGEWORTH,OSL - Water,Customer Relations,Monday,12.0,13.0,0.0,0.0,1.0,0
+0,0,Strandfontein,Street Lights - All Lights Out,Electricity - FLR-M'Plain-Contractor,Monday,26.0,27.0,0.0,0.0,1.0,0
+0,0,MORGANS VILLAGE,MTR: Customer Account Adjustment,WSR- Oostenberg Regional Office,Wednesday,7.0,8.0,0.0,0.0,1.0,0
+0,0,Vredekloof,Street Lights - All Lights Out,Electricity-FLR_Oostenberg_Streetlights,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,BONNIE BRAE,SEW: Blocked/Overflow,Langeberg Sew Depot Dispatch,Monday,12.0,13.0,0.0,0.0,1.0,0
+0,0,wynberg,WMM: No Water Below 40mm,Cape Town / SPM,Thursday,29.0,30.0,0.0,0.0,1.0,1
+0,0,wynberg,WAT: Leak at Fire Hydrant,Depot Dispatch Kendal Water,Thursday,22.0,23.0,0.0,0.0,1.0,1
+0,0,khayelitsha,SEW: Blocked/Overflow,Khayelitsha Sewer Depot Dispatch,Thursday,29.0,30.0,0.0,0.0,1.0,0
+0,0,hout bay,No Power,Electricity - FLR-Wynberg-Contractor,Sunday,4.0,5.0,1.0,0.0,1.0,0
+0,0,gugulethu,SEW: Blocked/Overflow,Pinelands Sewer Depot Dispatch,Wednesday,14.0,15.0,0.0,0.0,1.0,0
+0,0,brackenfell,SEW: Blocked/Overflow,Langeberg Sew Depot Dispatch,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,VIERLANDEN,SEW: Blocked/Overflow,Langeberg Sew Depot Dispatch,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,0,PINATI ESTATE,Street Lights - Single Light Out,Electricity - FLR-Vanguard-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,1
+0,0,N1 CITY,SEW: Blocked/Overflow,Socony Sewer Depot Dispatch,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,FOREST VILLAGE,OSL - Refuse,Customer Relations,Monday,12.0,13.0,0.0,0.0,1.0,0
+0,0,Elsies River,SEW: Blocked/Overflow,Socony Sewer Depot Dispatch,Thursday,15.0,16.0,0.0,0.0,1.0,0
+0,0,"EASTRIDGE, MITCHELLS PLAIN",Street Lights - Single Light Out,Electricity - FLR-M'Plain-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,BELLVILE,SEW: Blocked/Overflow,Blomtuin Sew Depot Dispatch,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,parow,SEW: Blocked/Overflow,Socony Sewer Depot Dispatch,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,Strand,Street Lights - All Lights Out,Electricity-FLR_Helderberg_Streetlights,Monday,26.0,27.0,0.0,0.0,1.0,0
+0,0,ELSIESRIVER,SEW: Blocked/Overflow,Socony Sewer Depot Dispatch,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,ELSIES RIVER,SEW: Blocked/Overflow,Socony Sewer Depot Dispatch,Friday,9.0,10.0,0.0,0.0,1.0,0
+0,0,EDGEMEAD,WAT: Leak at Fire Hydrant,Parow Water Dispatch,Friday,9.0,10.0,0.0,0.0,1.0,0
+0,0,Durbanville,SEW: Blocked/Overflow,Langeberg Sew Depot Dispatch,Tuesday,13.0,14.0,0.0,0.0,1.0,0
+0,0,COLORADO PARK,Street Lights - Single Light Out,Electricity - FLR-M'Plain-Contractor,Wednesday,7.0,8.0,0.0,0.0,1.0,0
+0,0,COLORADO PARK,Illegal Dumping,South Area Cleaning,Wednesday,7.0,8.0,0.0,0.0,1.0,0
+0,0,CLAREMONT,Tree Trimming,OPEN SPC - NEWLANDS - TREE MAINT,Wednesday,0.0,1.0,0.0,0.0,1.0,1
+0,0,CLAREMONT,Damaged Bin - 240L,Atlantic Operations - East Coast 1,Thursday,1.0,2.0,0.0,0.0,1.0,1
+0,0,CHURCHILL ESTATE,Street Lights - Single Light Out,Electricity-FLR_Parow_Streetlights,Friday,2.0,3.0,0.0,0.0,1.0,0
+0,0,CENTURY CITY,SEW: Blocked/Overflow,Depot Dispatch Killarney,Thursday,29.0,30.0,0.0,0.0,1.0,0
+0,0,CAPRICON,No Power,Electricity - FLR-Muizenberg-Contractor,Monday,19.0,20.0,0.0,0.0,1.0,0
+0,0,BROOKLYN,PPM Burning/Burning Smell,Electricity - FLR-Mowbray-Contractor,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,BROOKLYN,Low Voltage and/or Shocks,Electricity - FLR-Mowbray-Contractor,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,BROOKLYN,Street Lights - All Lights Out,Electricity - FLR-Mowbray-Contractor,Friday,16.0,17.0,0.0,0.0,1.0,0
+0,0,BRACKENFELL,WMM: No Water Below 40mm,Blaauwberg,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,BOTHASIG,Damaged Recycling Bin - 130L,Tierberg Collections,Monday,12.0,13.0,0.0,0.0,1.0,0
+0,0,BOSTON,WAT: Low Pressure,Blomtuin South Water Depot Despatch,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,BONTHEUWEL,No Power,Electricity - FLR-Vanguard-Contractor,Monday,26.0,27.0,0.0,0.0,1.0,1
+0,0,BONTEHEUWEL,WAT: Leak at Fire Hydrant,Parow Water Dispatch,Monday,12.0,13.0,0.0,0.0,1.0,1
+0,0,BISHOP LAVIS,SEW: Blocked/Overflow,Socony Sewer Depot Dispatch,Monday,19.0,20.0,0.0,0.0,1.0,0
+0,0,BISHOP LAVIS,WMM: Damaged Meter Below 40mm,Tygerberg,Thursday,8.0,9.0,0.0,0.0,1.0,1
+0,0,BELLVILLE SOUTH,SEW: Blocked/Overflow,Blomtuin Sew Depot Dispatch,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,BELGRAVIA,WMM: Leak at Meter/Stopcock Below 40mm,Customer Relations,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,ATLANTIS,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,0,ATHLONE,PPM Faulty (Enter detailed description),Electricity - FLR-Vanguard-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,ATHLONE,PPM Display Blank,Energy,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,Strand,Street Lights - Single Light Out,Energy,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,Nyanga East,PPM Faulty Mode,Electricity - FLR-Gugulethu-Contractor,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,SIR LOWRY'S PASS,Street Lights - Single Light Out,Energy,Thursday,22.0,23.0,0.0,0.0,1.0,1
+0,0,SIMON'S TOWN,Other (Enter detailed Fault description),Vending Income Control,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,SIMON'S TOWN,No Power,Electricity - FLR-Muizenberg-Contractor,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,GORDONS BAY,WAT: Burst Pipe,Depot Dispatch Strand Water,Sunday,4.0,5.0,1.0,0.0,1.0,0
+0,0,GORDONS BAY,Street Lights - Single Light Out,Electricity-FLR_Helderberg_Streetlights,Wednesday,28.0,29.0,0.0,0.0,1.0,0
+0,0,GRASSY PARK,SEW: Blocked/Overflow,Kendal Sewer Depot Dispatch,Wednesday,7.0,8.0,0.0,0.0,1.0,0
+0,0,GRASSY PARK,WMM: Damaged Meter Below 40mm,Cape Town / SPM,Wednesday,7.0,8.0,0.0,0.0,1.0,0
+0,0,MITCHELLS PLAIN,WMM: No Water Below 40mm,Cape Town / SPM,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,OTTERY,Other,Traffic Signals Call Centre,Wednesday,21.0,22.0,0.0,0.0,1.0,1
+0,0,MFULENI,SEW: Blocked/Overflow,Delft Sew Depot Dispatch,Sunday,11.0,12.0,1.0,0.0,1.0,0
+0,0,MFULENI,SINF: Faulty Cistern,Informal Settlement - Water - Meltonrose,Friday,23.0,24.0,0.0,0.0,1.0,1
+0,0,MFULENI,PPM Tripping,Energy,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,MFULENI,No Power,Electricity-First Line Response_Mfuleni,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,MFULENI,Street Lights - All Lights Out,Energy,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,WETTON,No Power,Electricity - FLR-Vanguard-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,PHILIPPI,SEW: Empty Conservancy Tank,Pinelands Sewer Depot Dispatch,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,0,PHILIPPI,SEW: Blocked/Overflow,Mitchells Plain Sewer Depot Dispatch,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,PHILIPPI,MTR: Customer MTR Reading/Consump,WSR- CTA Customer Relationship Managemen,Thursday,1.0,2.0,0.0,0.0,1.0,1
+0,0,PHILIPPI,PPM Rejecting Code,Electricity - FLR-Gugulethu-Contractor,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,PHILIPPI,PPM Burning/Burning Smell,Electricity - FLR-Gugulethu-Contractor,Monday,12.0,13.0,0.0,0.0,1.0,0
+0,0,PHILIPPI,Sparks on Pole,Electricity - FLR-Gugulethu-Contractor,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,NYANGA,PPM Display Blank,Electricity - FLR-Gugulethu-Contractor,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,GUGULETU,SEW: Broken Pipe,Pinelands Sewer Depot Dispatch,Wednesday,28.0,29.0,0.0,0.0,1.0,0
+0,0,GUGULETU,SEW: Blocked/Overflow,Pinelands Sewer Depot Dispatch,Monday,26.0,27.0,0.0,0.0,1.0,1
+0,0,GUGULETU,WMM: Damaged Meter Below 40mm,Tygerberg,Wednesday,7.0,8.0,0.0,0.0,1.0,1
+0,0,GUGULETU,WAT: Broken Leading,Hillstar Water Depot Dispatch 3 DM,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,0,GUGULETU,PPM Tripping,Electricity - FLR-Gugulethu-Contractor,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,GUGULETU,Street Lights - All Lights Out,Energy,Saturday,3.0,4.0,1.0,0.0,1.0,1
+0,0,HAGLEY,SEW: Blocked/Overflow,Melton Rose Sewer Depot Dispatch,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Monday,5.0,6.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Sunday,4.0,5.0,1.0,0.0,0.0,0
+0,0,LANGA,SEW: Blocked/Overflow,Pinelands Sewer Depot Dispatch,Thursday,22.0,23.0,0.0,0.0,1.0,0
+0,0,LANGA,PPM Tariff Query / Change,Energy,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,LANGA,PPM Rejecting Code,Electricity - FLR-Vanguard-Contractor,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,LANGA,PPM Faulty Mode,Electricity - FLR-Vanguard-Contractor,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,LANGA,PPM Burning/Burning Smell,Electricity - FLR-Vanguard-Contractor,Tuesday,13.0,14.0,0.0,0.0,1.0,0
+0,0,MATROOSFONTEIN,SEW: Blocked/Overflow,Socony Sewer Depot Dispatch,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,0,MATROOSFONTEIN,WAT: Leak in Road/Pavement/Undergr,Parow Water Dispatch,Thursday,15.0,16.0,0.0,0.0,1.0,1
+0,0,ORANJEZICHT,Phase Missing,Electricity-FLR-City-Contractor,Thursday,15.0,16.0,0.0,0.0,1.0,0
+0,0,PINELANDS,Escalated Query - Level 2,Customer Relations,Monday,19.0,20.0,0.0,0.0,1.0,1
+0,0,KUILS RIVER,SEW: Blocked/Overflow,Melton Rose Sewer Depot Dispatch,Wednesday,7.0,8.0,0.0,0.0,1.0,0
+0,0,GREEN POINT,WAT: Run to Waste,Hillstar Water Depot Dispatch 1 FLR,Tuesday,13.0,14.0,0.0,0.0,1.0,1
+0,0,GOODWOOD,WMM: No Water Below 40mm,Customer Relations,Thursday,8.0,9.0,0.0,0.0,1.0,0
+0,0,GOODWOOD,Illegal Dumping,Central Area Cleaning,Thursday,15.0,16.0,0.0,0.0,1.0,0
+0,0,GOODWOOD,Street Lights - All Lights Out,Electricity-FLR_Parow_Streetlights,Wednesday,14.0,15.0,0.0,0.0,1.0,0
+0,0,DURBANVILLE,Phase Missing,Electricity-First Line Response_Bloemhof,Sunday,25.0,26.0,1.0,0.0,1.0,0
+0,0,PELIKAN PARK,WMM: No Water Below 40mm,Cape Town / SPM,Thursday,1.0,2.0,0.0,0.0,1.0,1
+0,0,SCHAAPKRAAL,WAT: Burst Pipe,Hillstar Water Depot Dispatch 1 FLR,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,0,MACASSAR,Sparks on Pole,Energy,Monday,26.0,27.0,0.0,0.0,1.0,0
+0,0,MACASSAR,Street Lights - All Lights Out,Energy,Wednesday,7.0,8.0,0.0,0.0,1.0,1
+0,0,CONSTANTIA,SEW: Empty Conservancy Tank,Kendal Sewer Depot Dispatch,Tuesday,20.0,21.0,0.0,0.0,1.0,0
+0,0,HOUT BAY,SEW: Empty Conservancy Tank,Kendal Sewer Depot Dispatch,Thursday,1.0,2.0,0.0,0.0,1.0,0
+0,0,HOUT BAY,PPM Faulty Mode,Electricity - FLR-Wynberg-Contractor,Tuesday,6.0,7.0,0.0,0.0,1.0,1
+0,0,HOUT BAY,Kiosk Damaged,Electricity - FLR-Wynberg-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,HOUT BAY,Fire Call,Electricity - FLR-Wynberg-Contractor,Tuesday,13.0,14.0,0.0,0.0,1.0,0
+0,0,BELLVILLE,WAT: No Water 40mm and Above,Blomtuin South Water Depot Despatch,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,0,BELLVILLE,SEW: Blocked/Overflow,Blomtuin Sew Depot Dispatch,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,BELLVILLE,Street Lights - All Lights Out,Electricity-FLR_Bloemhof_Streetlights,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,PAROW,SEW: Blocked/Overflow,Socony Sewer Depot Dispatch,Tuesday,27.0,28.0,0.0,0.0,1.0,0
+0,0,PAROW,PPM Display Blank,Electricity-First Line Response_Parow,Wednesday,28.0,29.0,0.0,0.0,1.0,0
+0,0,CAMPS BAY,SEW: Blocked/Overflow,Pinelands Sewer Depot Dispatch,Friday,9.0,10.0,0.0,0.0,1.0,0
+0,0,WELTEVREDEN VALLEY,No Power,Electricity - FLR-Gugulethu-Contractor,Friday,23.0,24.0,0.0,0.0,1.0,0
+0,0,SOMERSET WEST,SEW: Blocked/Overflow,Strand Sewer Depot Dispatch,Thursday,8.0,9.0,0.0,0.0,1.0,0
+0,0,NOORDHOEK,No Power,Electricity - FLR-Muizenberg-Contractor,Wednesday,21.0,22.0,0.0,0.0,1.0,0
+0,0,FISANTEKRAAL,SEW: Blocked/Overflow,Langeberg Sew Depot Dispatch,Wednesday,14.0,15.0,0.0,0.0,1.0,0
+0,0,DELFT,WAT: Burst Pipe,Depot Dispatch  Delft Water,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,0,DELFT,Street Lights - All Lights Out,Energy,Thursday,8.0,9.0,0.0,0.0,1.0,0
+0,#,WALLACEDENE KRAAIFONTEIN,SEW: Blocked/Overflow,Langeberg Sew Depot Dispatch,Wednesday,0.0,1.0,0.0,0.0,1.0,0
+0,#,RETREAT,PPM Display Blank,Electricity - FLR-Muizenberg-Contractor,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,#,MFULENI,SEW: Blocked/Overflow,Delft Sew Depot Dispatch,Tuesday,6.0,7.0,0.0,0.0,1.0,0
+0,#,MFULENI,PPM Display Blank,Electricity-First Line Response_Mfuleni,Friday,9.0,10.0,0.0,0.0,1.0,0
+103,7,KLEINBRON,WAT: Broken Leading,Blomtuin North Water Depot Despatch,Tuesday,20.0,21.0,0.0,0.0,0.0,0
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Saturday,3.0,4.0,1.0,0.0,0.0,0
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Monday,5.0,6.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Tuesday,6.0,7.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Wednesday,7.0,8.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Wednesday,7.0,8.0,0.0,0.0,0.0,0
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Monday,5.0,6.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Thursday,8.0,9.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Friday,9.0,10.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Friday,9.0,10.0,0.0,0.0,0.0,0
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Monday,5.0,6.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Friday,9.0,10.0,0.0,0.0,0.0,0
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Tuesday,6.0,7.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Friday,9.0,10.0,0.0,0.0,0.0,1
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Wednesday,7.0,8.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Friday,9.0,10.0,0.0,0.0,0.0,1
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Wednesday,7.0,8.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Friday,9.0,10.0,0.0,0.0,0.0,0
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Wednesday,7.0,8.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Saturday,10.0,11.0,1.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Monday,12.0,13.0,0.0,0.0,0.0,0
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Thursday,8.0,9.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Monday,12.0,13.0,0.0,0.0,0.0,1
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Thursday,8.0,9.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Wednesday,14.0,15.0,0.0,0.0,0.0,0
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Thursday,8.0,9.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Wednesday,14.0,15.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Thursday,15.0,16.0,0.0,0.0,0.0,0
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Thursday,8.0,9.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Friday,16.0,17.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Friday,16.0,17.0,0.0,0.0,0.0,0
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Thursday,8.0,9.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Friday,16.0,17.0,0.0,0.0,0.0,0
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Thursday,8.0,9.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Friday,16.0,17.0,0.0,0.0,0.0,0
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Thursday,8.0,9.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Monday,19.0,20.0,0.0,0.0,0.0,0
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Thursday,8.0,9.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Monday,19.0,20.0,0.0,0.0,0.0,1
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Thursday,8.0,9.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Monday,19.0,20.0,0.0,0.0,0.0,1
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Thursday,8.0,9.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Tuesday,20.0,21.0,0.0,0.0,0.0,1
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Thursday,8.0,9.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Wednesday,21.0,22.0,0.0,0.0,0.0,1
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Thursday,15.0,16.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Wednesday,21.0,22.0,0.0,0.0,0.0,1
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Friday,16.0,17.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Friday,23.0,24.0,0.0,0.0,0.0,1
+Sub-Council 1,23,SUNNINGDALE,Street Lights - Single Light Out,Electricity-First Line Response_Bothasig,Friday,16.0,17.0,0.0,0.0,0.0,0
+Sub-Council 1,29,AVONDALE - WESFLEUR,SEW: Blocked/Overflow,Atlantis Sewer Depot Dispatch,Monday,26.0,27.0,0.0,0.0,0.0,1

@@ -1,0 +1,31 @@
+{
+  "three_valid_cases": [
+    {
+      "case": "Example 1",
+      "probability_at_risk": 0.7967186762493903,
+      "prediction_at_risk": 1,
+      "passed": true
+    },
+    {
+      "case": "Example 2",
+      "probability_at_risk": 0.6822367499769322,
+      "prediction_at_risk": 1,
+      "passed": true
+    },
+    {
+      "case": "Example 3",
+      "probability_at_risk": 0.5160863192642785,
+      "prediction_at_risk": 0,
+      "passed": true
+    }
+  ],
+  "invalid_case": {
+    "message": "Complaint type is required.",
+    "passed": true
+  },
+  "streamlit_health": {
+    "http_status": 200,
+    "passed": true
+  },
+  "all_passed": true
+}
