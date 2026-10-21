@@ -1,7 +1,9 @@
 """Streamlit interface for seven-day municipal service-request risk triage."""
+
 from __future__ import annotations
 
 import datetime as dt
+import re
 from pathlib import Path
 
 import pandas as pd
@@ -20,6 +22,10 @@ def cached_bundle():
 
 bundle = cached_bundle()
 maps = bundle["category_maps"]
+_BAD = re.compile(r"\d|MOBI|\b(street|road|avenue|drive|crescent|lane|close)\b", re.I)
+
+def clean_options(options):
+    return [o for o in options if isinstance(o, str) and not _BAD.search(o)]
 
 st.title("Municipal Service Request - Seven-Day Risk Triage")
 st.caption("Educational decision support only: estimates the risk that a request will not be completed within seven calendar days.")
@@ -31,9 +37,9 @@ if mode == "Single request":
         created_date = st.date_input("Request creation date", value=dt.date(2026, 5, 30))
         sub_council = st.selectbox("Sub-council", sorted(maps["Sub_Council"].keys()))
         ward = st.selectbox("Ward", sorted(maps["Ward"].keys()))
-        suburb = st.selectbox("Suburb", sorted(maps["Suburb"].keys()))
+        suburb = st.selectbox("Suburb", clean_options(sorted(maps["Suburb"].keys())))
         complaint = st.selectbox("Complaint type", sorted(maps["C3_Complaint_Type"].keys()))
-        work_center = st.selectbox("Work centre", sorted(maps["Work_Center"].keys()))
+        work_center = st.selectbox("Work centre", clean_options(sorted(maps["Work_Center"].keys())))
         coordinate_state = st.radio("Coordinate quality", ["Available", "Missing", "Recorded as 0,0"], horizontal=True)
         submitted = st.form_submit_button("Assess risk", type="primary")
 
